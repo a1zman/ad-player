@@ -1,4 +1,4 @@
-$Folder = "C:\Users\genil\Videos\Captures"
+$Folder = "C:\Videos\Captures"
 $VlcPath = "C:\Program Files\VideoLAN\VLC\vlc.exe"
 
 $VlcArgsBase = @(
